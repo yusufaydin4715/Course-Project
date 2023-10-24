@@ -7,4 +7,4 @@ Html-Css konuları hakkında bir proje
 
 <h2>Proje Görüntüsü</h2>
 
-![](proje.gif)
+![](project.gif)
